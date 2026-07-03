@@ -168,6 +168,89 @@ novos datasets
 
 correções de documentação
 
+🛡️ LGPD e ISO 27001 aplicadas ao OSINT
+📘 LGPD — Lei Geral de Proteção de Dados
+Mesmo quando usamos informações públicas, a LGPD ainda se aplica.
+Ela protege dados pessoais e define como eles podem ser coletados e usados.
+
+Princípios importantes da LGPD para OSINT
+Finalidade: ter um objetivo claro para a coleta.
+
+Necessidade: coletar só o mínimo necessário.
+
+Transparência: nunca enganar pessoas.
+
+Segurança: proteger os dados coletados.
+
+Prevenção: evitar riscos ao titular.
+
+Não discriminação: nunca usar dados para prejudicar alguém.
+
+O que NÃO pode ser feito
+Coletar dados pessoais sensíveis sem base legal.
+
+Expor informações privadas.
+
+Criar perfis invasivos.
+
+Reidentificar pessoas anonimizadas.
+
+Compartilhar dados pessoais sem autorização.
+
+O que PODE ser feito
+Usar dados públicos.
+
+Analisar perfis abertos.
+
+Investigar documentos oficiais.
+
+Coletar dados para segurança, defesa ou prevenção de fraudes.
+
+🏛️ ISO 27001 — Segurança da Informação
+A ISO 27001 define boas práticas para proteger informações.
+Aplicar esses princípios no OSINT deixa o projeto mais seguro e profissional.
+
+Controles importantes da ISO 27001 para OSINT
+🔐 A.5 — Políticas de Segurança
+Definir regras claras sobre coleta e uso de dados.
+
+🧑‍💻 A.6 — Organização da Segurança
+Controlar quem acessa datasets e ferramentas.
+
+🔒 A.8 — Gestão de Ativos
+Classificar dados coletados (públicos, sensíveis, críticos).
+
+🛂 A.9 — Controle de Acesso
+Restringir acesso a dados pessoais.
+
+Usar autenticação forte.
+
+📊 A.12 — Segurança Operacional
+Registrar logs de scripts e coletas.
+
+Monitorar uso das ferramentas.
+
+🛠️ A.14 — Desenvolvimento Seguro
+Criar scripts sem expor credenciais.
+
+Evitar armazenar dados sensíveis em código.
+
+⚠️ A.18 — Conformidade
+Garantir respeito à LGPD e leis locais.
+
+Documentar riscos e mitigação.
+
+⚖️ Ética e Legalidade no OSINT
+Nunca invadir sistemas (isso não é OSINT).
+
+Nunca coletar dados privados.
+
+Nunca expor pessoas sem necessidade.
+
+Sempre respeitar leis e normas.
+
+Usar OSINT apenas para fins legítimos: segurança, defesa, investigação autorizada.
+
 🏷️ Tags (SEO)
 OSINT, Cybersecurity, Military Intelligence, SOC, Blue Team, Threat Intelligence, Segurança da Informação, Defesa Digital
 
